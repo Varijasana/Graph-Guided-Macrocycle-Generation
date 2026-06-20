@@ -1,6 +1,0 @@
-C(C(C)CN(C(C)CO)C(c1c(*)ccc(NC(=O)CCC(F)(F)F)c1)=O)(OCC*)CN(C(=O)CCC(F)(F)F)C
-C(C(C)CN(C(C)CO)C(c1c(*)ccc(NC(=O)CCC(F)(F)F)c1)=O)(OCC*)CN(C(=O)CCC(F)(F)F)C
-C(C(C)CN(C(C)CO)C(c1c(*)ccc(NC(=O)CCC(F)(F)F)c1)=O)(OCC*)CN(C(=O)CCC(F)(F)F)C
-C(C(C)CN(C(C)CO)C(c1c(*)ccc(NC(=O)CCC(F)(F)F)c1)=O)(OCC*)CN(C(=O)CCC(F)(F)F)C
-C(C(C)CN(C(C)CO)C(c1c(*)ccc(NC(=O)CCC(F)(F)F)c1)=O)(OCC*)CN(C(=O)CCC(F)(F)F)C
-C(C(C)CN(C(C)CO)C(c1c(*)ccc(NC(=O)CCC(F)(F)F)c1)=O)(OCC*)CN(C(=O)CCC(F)(F)F)C

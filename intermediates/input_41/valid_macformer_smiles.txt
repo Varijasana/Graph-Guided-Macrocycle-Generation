@@ -1,6 +1,0 @@
-C(CC=C*)OC(c1c(*)c(Cl)c(O)cc1O)=O
-C(CC=C*)OC(c1c(*)c(Cl)c(O)cc1O)=O
-C(CC=C*)OC(c1c(*)c(Cl)c(O)cc1O)=O
-C(CC=C*)OC(c1c(*)c(Cl)c(O)cc1O)=O
-C(CC=C*)OC(c1c(*)c(Cl)c(O)cc1O)=O
-C(CC=C*)OC(c1c(*)c(Cl)c(O)cc1O)=O

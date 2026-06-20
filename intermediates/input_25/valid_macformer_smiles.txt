@@ -1,6 +1,0 @@
-C(C(C(O)C(C)C=C(C(OC(=O)N)C(OC)C=C*)C)OC)C(c1c(O)cc(N*)c(O)c1[NH2+]CC(CO)O)C
-C(C(C(O)C(C)C=C(C(OC(=O)N)C(OC)C=C*)C)OC)C(c1c(O)cc(N*)c(O)c1[NH2+]CC(CO)O)C
-C(C(C(O)C(C)C=C(C(OC(=O)N)C(OC)C=C*)C)OC)C(c1c(O)cc(N*)c(O)c1[NH2+]CC(CO)O)C
-C(C(C(O)C(C)C=C(C(OC(=O)N)C(OC)C=C*)C)OC)C(c1c(O)cc(N*)c(O)c1[NH2+]CC(CO)O)C
-C(C(C(O)C(C)C=C(C(OC(=O)N)C(OC)C=C*)C)OC)C(c1c(O)cc(N*)c(O)c1[NH2+]CC(CO)O)C
-C(C(C(O)C(C)C=C(C(OC(=O)N)C(OC)C=C*)C)OC)C(c1c(O)cc(N*)c(O)c1[NH2+]CC(CO)O)C

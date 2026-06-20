@@ -1,5 +1,0 @@
-*CCN*
-*CCC*
-*CCO*
-*CC(*)CO
-*O[C@@H]1C(*)C1(O)O

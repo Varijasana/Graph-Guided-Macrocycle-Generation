@@ -1,8 +1,0 @@
-*C(C)C(*)C
-*CC(*)C(=O)O
-*N=C(*)NO
-*C[C@H](C#N)C(*)=O
-*CNOC(*)=O
-*CCC*
-*CNC(*)=O
-*CC(*)CO
