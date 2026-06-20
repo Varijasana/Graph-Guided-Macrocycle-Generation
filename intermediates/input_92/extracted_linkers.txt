@@ -1,0 +1,17 @@
+*CC(*)O
+*CCC*
+*CC(*)C
+*C=CC*
+*CCC*
+*CC(*)C
+*C=CC*
+*CC(*)N
+*CC(*)=C
+*CCC*
+*CC(*)C
+*CC(*)O
+*CC(*)C
+*CCC*
+*CC(*)=C
+*C=C=C*
+*C=C=C*

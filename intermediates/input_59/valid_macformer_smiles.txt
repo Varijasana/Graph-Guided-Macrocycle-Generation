@@ -1,0 +1,6 @@
+C(CCC(NC(C1N(C(C(c2ccccc2)NC(=O)CCC*)=O)CC(OC)C1)=O)C(=O)C(=O)N*)NC(=N)N
+C(CCC(NC(C1N(C(C(c2ccccc2)NC(=O)CCC*)=O)CC(OC)C1)=O)C(=O)C(=O)N*)NC(=N)N
+C(CCC(NC(C1N(C(C(c2ccccc2)NC(=O)CCC*)=O)CC(OC)C1)=O)C(=O)C(=O)N*)NC(=N)N
+C(CCC(NC(C1N(C(C(c2ccccc2)NC(=O)CCC*)=O)CC(OC)C1)=O)C(=O)C(=O)N*)NC(=N)N
+C(CCC(NC(C1N(C(C(c2ccccc2)NC(=O)CCC*)=O)CC(OC)C1)=O)C(=O)C(=O)N*)NC(=N)N
+C(CCC(NC(C1N(C(C(c2ccccc2)NC(=O)CCC*)=O)CC(OC)C1)=O)C(=O)C(=O)N*)NC(=N)N

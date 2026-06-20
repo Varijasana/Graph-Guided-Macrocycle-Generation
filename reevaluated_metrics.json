@@ -1,0 +1,30 @@
+{
+  "transformer": {
+    "n_total": 5532,
+    "n_valid": 5480,
+    "validity_pct": 99.06,
+    "uniqueness_pct": 87.7555,
+    "novelty_pct": 99.9638,
+    "avg_tanimoto": 0.9623,
+    "diversity_pct": 79.2601,
+    "stage": "transformer_intermediate"
+  },
+  "pipeline": {
+    "n_total": 80,
+    "n_valid": 80,
+    "n_macrocycles": 80,
+    "validity_pct": 100.0,
+    "uniqueness_pct": 100.0,
+    "macrocyclisation_pct": 100.0,
+    "avg_qed": 0.2011,
+    "avg_sa": null,
+    "stage": "pipeline_final_macrocycles",
+    "linker_novelty_pct": 100.0,
+    "n_valid_unique_for_linker_novelty": 80,
+    "n_novel_linkers": 80
+  },
+  "notes": {
+    "transformer_novelty": "Intermediate * predictions vs train.csv tgt (Sec 2.2)",
+    "linker_novelty": "Extracted Linkers vs training (Table 1, same n as Part 1)"
+  }
+}

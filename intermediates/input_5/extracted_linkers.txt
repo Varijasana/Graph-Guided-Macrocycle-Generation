@@ -1,0 +1,16 @@
+*CC(*)N
+*C(=O)C(*)C
+*CC(*)=CCCl
+*CCC*
+*CCCC(*)=O
+*CCC*
+*CCC*
+*CC(*)C
+*CC(*)C
+*CC(*)C
+*C(C)[C@H]1CC1*
+*CNC(=O)C*
+*CC(*)O
+*CC(*)C
+*C1CC1*
+*CC(*)C

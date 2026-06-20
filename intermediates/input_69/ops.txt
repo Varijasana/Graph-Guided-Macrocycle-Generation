@@ -1,0 +1,16 @@
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCC(=O)[C@H]2OC2C(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCC=C=CC(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCCCCC(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCCC(O)CC(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCCSCC(c2c[nH]c3ccccc23)NC1=O
+CC1=C=CCNC(=O)c2cccc(n2)C(=O)NC(c2ccccc2)C(=O)NC(Cc2c[nH]c3ccccc23)C(=O)NC(CCCN=C(N)N)C(=O)NC1c1c[nH]c2ccccc12
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCC(=O)[C@H]2CC2C(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCC=C=CC(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCC(=O)N2NC2C(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCCCCC(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCNCC(=O)OC(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCCCCC(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCCCCC(Cl)C(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCC(=O)[C@@H]2CC2C(c2c[nH]c3ccccc23)NC1=O
+NC(N)=NCCCC1NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCCC(=O)NC(c2c[nH]c3ccccc23)NC1=O
+N#CC1C(c2c[nH]c3ccccc23)NC(=O)C(CCCN=C(N)N)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(c2ccccc2)NC(=O)c2cccc(n2)C(=O)NCC[C@@H]1O

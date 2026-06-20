@@ -1,0 +1,6 @@
+C(C(C)OC(c1c(O)cc(O)c(Cl)c1CC(=O)C*)=O)C*
+C(C(C)OC(c1c(O)cc(O)c(Cl)c1CC(=O)C*)=O)C*
+C(C(C)OC(c1c(O)cc(O)c(Cl)c1CC(=O)C*)=O)C*
+C(C(C)OC(c1c(O)cc(O)c(Cl)c1CC(=O)C*)=O)C*
+C(C(C)OC(c1c(O)cc(O)c(Cl)c1CC(=O)C*)=O)C*
+C(C(C)OC(c1c(O)cc(O)c(Cl)c1CC(=O)C*)=O)C*

@@ -1,0 +1,6 @@
+C(CC=CCC*)(OC(c1c(*)c(Cl)c(O)cc1O)=O)C
+C(CC=CCC*)(OC(c1c(*)c(Cl)c(O)cc1O)=O)C
+C(CC=CCC*)(OC(c1c(*)c(Cl)c(O)cc1O)=O)C
+C(CC=CCC*)(OC(c1c(*)c(Cl)c(O)cc1O)=O)C
+C(CC=CCC*)(OC(c1c(*)c(Cl)c(O)cc1O)=O)C
+C(CC=CCC*)(OC(c1c(*)c(Cl)c(O)cc1O)=O)C

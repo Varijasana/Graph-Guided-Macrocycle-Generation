@@ -1,0 +1,1 @@
+C(C(NC(C(=O)*)CCCNC(=N)N)=O)(C)(SSCC(NC(=O)C)C(N1C(C(N(C(C(=O)*)CCCNC(=N)N)C)=O)CCC1)=O)C

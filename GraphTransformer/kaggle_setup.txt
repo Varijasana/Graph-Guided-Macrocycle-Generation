@@ -1,0 +1,37 @@
+# =======================================================
+# KAGGLE NOTEBOOK SETUP (LAYMAN STEP-BY-STEP INSTRUCTIONS)
+# =======================================================
+# HOW TO NEVER LOSE PROGRESS ON KAGGLE
+# Kaggle is different from Colab. It doesn't use Google Drive. 
+# If your internet drops while leaving the tab open, Kaggle will erase your progress.
+# To make it 100% disconnect-proof so you can turn off your laptop, follow these steps exactly:
+# -------------------------------------------------------
+# STEP 1: Upload Your Project safely
+# -------------------------------------------------------
+# 1. On Kaggle, go to the left menu: "Datasets" -> "New Dataset".
+# 2. Upload this entire 'project' folder and name the dataset "my-graph-project".
+# -------------------------------------------------------
+# STEP 2: Setup Your Notebook
+# -------------------------------------------------------
+# 1. Create a New Notebook on Kaggle.
+# 2. On the right-side panel, click "Add Input" -> go to "Your Datasets" -> Add "my-graph-project".
+# 3. Turn on the GPU (Right panel -> "Accelerator" -> "GPU T4").
+# -------------------------------------------------------
+# STEP 3: Run These Exact Cells in Order
+# -------------------------------------------------------
+# CELL 1: Copy your files to the safe Working Directory (so checkpoints can be saved!)
+!cp -r /kaggle/input/my-graph-project/* /kaggle/working/
+# CELL 2: Install necessary chemistry tools
+!pip install rdkit
+# CELL 3: Start Training
+!python /kaggle/working/train.py
+# -------------------------------------------------------
+# STEP 4: THE ULTIMATE SAFETY TRICK (IMPORTANT!)
+# -------------------------------------------------------
+# Do NOT just leave the notebook running in your web browser. 
+# 1. Go to the top right corner of the Kaggle screen and click the "Save Version" button.
+# 2. Select "Save & Run All (Commit)" and hit Save.
+# 
+# MAGIC: You can now close the tab and turn off your computer! 
+# Kaggle's massive cloud servers will run your training entirely in the background. 
+# When it finishes (in about 10 hours), you just open your Kaggle profile, click your Notebook, and go to the "Output" section. Your highly trained `joint_checkpoint.pth` will be permanently saved right there!

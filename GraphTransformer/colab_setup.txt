@@ -1,0 +1,28 @@
+# ==========================================
+# Google Colab Setup & Execution Commands
+# ==========================================
+# Run these step-by-step in Colab cells
+
+# 1. Install standard Chemistry and ML Libraries
+!pip install rdkit
+!pip install pandas numpy tqdm torch scikit-learn matplotlib
+
+# 2. Mount Your Google Drive (ULTIMATE SAFETY SAFEGUARD)
+# This prevents you from losing your files or training checkpoints 
+# if Colab suddenly disconnects!
+from google.colab import drive
+drive.mount('/content/drive')
+
+# Make a folder in your Drive and move into it
+%cd /content/drive/MyDrive/project
+# (Upload your project files directly into this Google Drive folder!)
+
+# 3. FAST End-to-End Joint Training
+# (Since you are in Drive, every epoch's checkpoint is instantly saved to the cloud)
+!python train.py
+
+# 4. Evaluate Final Metrics (Validity, Rings, QED, etc.)
+!python evaluate_model.py
+
+# 5. Predict Cyclisation for a Single Acyclic Molecule
+!python predict.py --smiles "YOUR_ACYCLIC_SMILES_STRING_HERE"

@@ -1,0 +1,6 @@
+C(C(C(C(C1=C(C2C(C)C(O)C(C)C(C*)O2)C(=O)C(O)C1=O)O)=O)C)C(C*)C
+C(C(C(C(C1=C(C2C(C)C(O)C(C)C(C*)O2)C(=O)C(O)C1=O)O)=O)C)C(C*)C
+C(C(C(C(C1=C(C2C(C)C(O)C(C)C(C*)O2)C(=O)C(O)C1=O)O)=O)C)C(C*)C
+C(C(C(C(C1=C(C2C(C)C(O)C(C)C(C*)O2)C(=O)C(O)C1=O)O)=O)C)C(C*)C
+C(C(C(C(C1=C(C2C(C)C(O)C(C)C(C*)O2)C(=O)C(O)C1=O)O)=O)C)C(C*)C
+C(C(C(C(C1=C(C2C(C)C(O)C(C)C(C*)O2)C(=O)C(O)C1=O)O)=O)C)C(C*)C

@@ -1,0 +1,14 @@
+*CCC*
+*CCCCC*
+*CCNCC*
+*NCC[C@@H]1C(*)[C@@H]1O
+*CCC*
+*C[C@H]1C[C@@H]1CC(*)CC
+*C1C(*)C1C(=O)[C@H](C)O
+*CN=C(Cl)CCO*
+*C[C@@H](N)[C@H]1CC(*)OO1
+*Cc1cccc(*)c1
+*CCC*
+*C(=O)OC(C)[C@H]1CC1*
+*CCN1CCC(*)CC1
+*C[C@@H]1C[C@H]1CC(=O)N*

@@ -1,0 +1,6 @@
+C(CCC(c1c(C(=O)OC(C)*)c(O)cc(O)c1Cl)=O)*
+C(CCC(c1c(C(=O)OC(C)*)c(O)cc(O)c1Cl)=O)*
+C(CCC(c1c(C(=O)OC(C)*)c(O)cc(O)c1Cl)=O)*
+C(CCC(c1c(C(=O)OC(C)*)c(O)cc(O)c1Cl)=O)*
+C(CCC(c1c(C(=O)OC(C)*)c(O)cc(O)c1Cl)=O)*
+C(CCC(c1c(C(=O)OC(C)*)c(O)cc(O)c1Cl)=O)*

@@ -1,0 +1,6 @@
+C(CCCC(C1c(C(=O)OC*)c(O)c(Br)c1O)=O)*
+C(CCCC(C1c(C(=O)OC*)c(O)c(Br)c1O)=O)*
+C(CCCC(C1c(C(=O)OC*)c(O)c(Br)c1O)=O)*
+C(CCCC(C1c(C(=O)OC*)c(O)c(Br)c1O)=O)*
+C(CCCC(C1c(C(=O)OC*)c(O)c(Br)c1O)=O)*
+C(CCCC(C1c(C(=O)OC*)c(O)c(Br)c1O)=O)*

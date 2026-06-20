@@ -1,0 +1,6 @@
+C(CCC=CCC*)c1ccc(C=C2N=C(*)C=C2OC)[nH]1
+C(CCC=CCC*)c1ccc(C=C2N=C(*)C=C2OC)[nH]1
+C(CCC=CCC*)c1ccc(C=C2N=C(*)C=C2OC)[nH]1
+C(CCC=CCC*)c1ccc(C=C2N=C(*)C=C2OC)[nH]1
+C(CCC=CCC*)c1ccc(C=C2N=C(*)C=C2OC)[nH]1
+C(CCC=CCC*)c1ccc(C=C2N=C(*)C=C2OC)[nH]1
