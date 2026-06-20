@@ -1,7 +1,0 @@
-CCC1OC(O)C(OC)CC(C)c2c(O)cc(NC(=O)c3ccc(CN4CCc5ccccc54)cc3)c(c2O)C=C(C)CC(OC)C1O
-COC1CC(C)=Cc2c(NC(=O)c3ccc(CN4CCc5ccccc54)cc3)cc(O)c(c2O)C(C)CC(OC)C(O)C=C=CC1O
-COC1CC(C)=Cc2c(NC(=O)c3ccc(CN4CCc5ccccc54)cc3)cc(O)c(c2O)C(C)CC(OC)C(O)CCCC1O
-COC1CC(C)=Cc2c(NC(=O)c3ccc(CN4CCc5ccccc54)cc3)cc(O)c(c2O)C(C)CC(OC)C(O)CSCC1O
-COC1CC(C)c2c(O)cc(NC(=O)c3ccc(CN4CCc5ccccc54)cc3)c(c2O)C=C(C)CC(OC)C(O)C(C)NC1O
-COC1CC(C)c2c(O)cc(NC(=O)c3ccc(CN4CCc5ccccc54)cc3)c(c2O)C=C(C)CC(OC)C(O)C(O)CC1O
-COC1CC(C)c2c(O)cc(NC(=O)c3ccc(CN4CCc5ccccc54)cc3)c(c2O)C=C(C)CC(OC)C(O)OCCC1O

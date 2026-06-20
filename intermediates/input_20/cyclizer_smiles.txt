@@ -1,1 +1,0 @@
-C(C(NC(C(NC(C(=O)NCC(NC(CC(=O)O*)C(NC(CS*)C(=O)O)=O)=O)CCCNC(N)=N)=O)CC(C)(C)C)=O)

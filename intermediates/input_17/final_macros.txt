@@ -1,8 +1,0 @@
-CC1CCNC(=O)C(c2c[nH]c3ccccc23)NC(=O)C(CCCNC(=N)N)NC(=O)C(c2ccccc2)NC(=O)C(c2cnc[nH]2)C1Cl
-CC[C@@H]1CCCCNC(=O)C(c2c[nH]c3ccccc23)NC(=O)C(CCCNC(=N)N)NC(=O)C(c2ccccc2)NC(=O)C(c2cnc[nH]2)N1
-COC1CCCNC(=O)C(c2c[nH]c3ccccc23)NC(=O)C(CCCNC(=N)N)NC(=O)C(c2ccccc2)NC(=O)C1c1cnc[nH]1
-N=C(N)NCCCC1NC(=O)C(c2ccccc2)NC(=O)C(c2cnc[nH]2)C(CO)CCCNC(=O)C(c2c[nH]c3ccccc23)NC1=O
-N=C(N)NCCCC1NC(=O)C(c2ccccc2)NC(=O)C(c2cnc[nH]2)CNCCCCCNC(=O)C(c2c[nH]c3ccccc23)NC1=O
-N=C(N)NCCCC1NC(=O)C(c2ccccc2)NC(=O)C(c2cnc[nH]2)NCCCCCCNC(=O)C(c2c[nH]c3ccccc23)NC1=O
-N=C(N)NCCCC1NC(=O)C(c2ccccc2)NC(=O)C(c2cnc[nH]2)ONC(=O)CCCCNC(=O)C(c2c[nH]c3ccccc23)NC1=O
-N=C(N)NCCCC1NC(=O)C(c2ccccc2)NC(=O)C(c2cnc[nH]2)SCCCCCNC(=O)C(c2c[nH]c3ccccc23)NC1=O

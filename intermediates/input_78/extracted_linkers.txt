@@ -1,9 +1,0 @@
-*CC*
-*C1OC1*
-*COCOC(*)O
-*C=C=C*
-*C=CC*
-*CCN*
-*CC(*)C
-*CCC(*)=N
-*CC(=O)N*

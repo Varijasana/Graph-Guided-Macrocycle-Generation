@@ -1,6 +1,0 @@
-C(C(NC(C(N(C(C(NC(C(=O)[O-])*)=O)c1ccccc1)C)=O)CCC[NH+]=C(NC(NC)=O)N)=O)(CC(O*)=O)*
-C(C(NC(C(N(C(C(NC(C(=O)[O-])*)=O)c1ccccc1)C)=O)CCC[NH+]=C(NC(NC)=O)N)=O)(CC(O*)=O)*
-C(C(NC(C(N(C(C(NC(C(=O)[O-])*)=O)c1ccccc1)C)=O)CCC[NH+]=C(NC(NC)=O)N)=O)(CC(O*)=O)*
-C(C(NC(C(N(C(C(NC(C(=O)[O-])*)=O)c1ccccc1)C)=O)CCC[NH+]=C(NC(NC)=O)N)=O)(CC(O*)=O)*
-C(C(NC(C(N(C(C(NC(C(=O)[O-])*)=O)c1ccccc1)C)=O)CCC[NH+]=C(NC(NC)=O)N)=O)(CC(O*)=O)*
-C(C(NC(C(N(C(C(NC(C(=O)[O-])*)=O)c1ccccc1)C)=O)CCC[NH+]=C(NC(NC)=O)N)=O)(CC(O*)=O)*
