@@ -1,6 +1,0 @@
-*C1CC1(*)O
-*CCC*
-*C1CC1*
-*CC(*)CO
-*C1CC1*
-*CNN*

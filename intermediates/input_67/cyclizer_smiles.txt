@@ -1,1 +1,0 @@
-C(CCCC(C(=O)N)NC(C(c1cc2c(cccc2)cc1)NC(=O)C(NC(=O)C(NC(=O)*)c1ccc2ccccc2c1)CCCNC(=N)N)=O)*

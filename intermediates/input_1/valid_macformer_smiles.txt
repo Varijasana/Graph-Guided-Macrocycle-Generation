@@ -1,6 +1,0 @@
-c1ccc2c(ccc(CC(C(NC(C(NC(C(=O)N)c3c4c(cccc4)[nH]c3)=O)CCCN=C(N)N)=O)NC(=O)c3nccn3C(=O)*)c2)c1
-c1ccc2c(ccc(CC(C(NC(C(NC(C(=O)N)c3c4c(cccc4)[nH]c3)=O)CCCN=C(N)N)=O)NC(=O)c3nccn3C(=O)*)c2)c1
-c1ccc2c(ccc(CC(C(NC(C(NC(C(=O)N)c3c4c(cccc4)[nH]c3)=O)CCCN=C(N)N)=O)NC(=O)c3nccn3C(=O)*)c2)c1
-c1ccc2c(ccc(CC(C(NC(C(NC(C(=O)N)c3c4c(cccc4)[nH]c3)=O)CCCN=C(N)N)=O)NC(=O)c3nccn3C(=O)*)c2)c1
-c1ccc2c(ccc(CC(C(NC(C(NC(C(=O)N)c3c4c(cccc4)[nH]c3)=O)CCCN=C(N)N)=O)NC(=O)c3nccn3C(=O)*)c2)c1
-c1ccc2c(ccc(CC(C(NC(C(NC(C(=O)N)c3c4c(cccc4)[nH]c3)=O)CCCN=C(N)N)=O)NC(=O)c3nccn3C(=O)*)c2)c1

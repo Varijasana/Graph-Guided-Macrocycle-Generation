@@ -1,8 +1,0 @@
-*CCCNC*
-*CC(*)OC
-*CCC(=O)NO*
-*CCCCN*
-*C(C)C(*)Cl
-*CC[C@@H](CC)N*
-*CC(*)CO
-*CCCS*

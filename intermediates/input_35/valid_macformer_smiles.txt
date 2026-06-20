@@ -1,6 +1,0 @@
-C(C(C)C(O*)CN(C(=O)c1c(C)onc1C)C)N(C(CO)C)C(c1c(O*)ccc(NC(c2c(C)onc2C)=O)c1)=O
-C(C(C)C(O*)CN(C(=O)c1c(C)onc1C)C)N(C(CO)C)C(c1c(O*)ccc(NC(c2c(C)onc2C)=O)c1)=O
-C(C(C)C(O*)CN(C(=O)c1c(C)onc1C)C)N(C(CO)C)C(c1c(O*)ccc(NC(c2c(C)onc2C)=O)c1)=O
-C(C(C)C(O*)CN(C(=O)c1c(C)onc1C)C)N(C(CO)C)C(c1c(O*)ccc(NC(c2c(C)onc2C)=O)c1)=O
-C(C(C)C(O*)CN(C(=O)c1c(C)onc1C)C)N(C(CO)C)C(c1c(O*)ccc(NC(c2c(C)onc2C)=O)c1)=O
-C(C(C)C(O*)CN(C(=O)c1c(C)onc1C)C)N(C(CO)C)C(c1c(O*)ccc(NC(c2c(C)onc2C)=O)c1)=O
