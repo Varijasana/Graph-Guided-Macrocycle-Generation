@@ -1,0 +1,16 @@
+*C=C[C@@H]1CC1C*
+*C#CCC*
+*C(*)=C
+*CCCCC*
+*CCCCC*
+*CCCCC*
+*C=C=CS*
+*CC#CCC*
+*CCCCC*
+*C=CCC*
+*C=CC(=O)NC*
+*C#CCCN*
+*CCCCC*
+*C(*)=C
+*CCSC*
+*C=C=CC*

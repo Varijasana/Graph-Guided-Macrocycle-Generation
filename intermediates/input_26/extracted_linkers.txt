@@ -1,0 +1,8 @@
+*C(C)C(*)CO
+*CC(*)C
+*C1=CCC=C1*
+*C[C@@H](OC)C(*)O
+*CC(*)OCC
+*CCCCC*
+*CC(*)C(=O)O
+*C(O)C(*)CO

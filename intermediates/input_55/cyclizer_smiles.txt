@@ -1,0 +1,1 @@
+C(C(C(O)C(C)C=C(C(OC(=O)NO)*)C)OC)C(-c1c(O)cc(NC(=O)C(=C*)C)c(O)c1N1CCC1)C

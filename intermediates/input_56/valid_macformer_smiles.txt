@@ -1,0 +1,6 @@
+C(C(NC(c1ccc(CNC(=O)C(CC(=O)O*)*)[nH]1)=O)C(C)C)(N(C)C(C(=O)N)CCCNC(=N)N)=O
+C(C(NC(c1ccc(CNC(=O)C(CC(=O)O*)*)[nH]1)=O)C(C)C)(N(C)C(C(=O)N)CCCNC(=N)N)=O
+C(C(NC(c1ccc(CNC(=O)C(CC(=O)O*)*)[nH]1)=O)C(C)C)(N(C)C(C(=O)N)CCCNC(=N)N)=O
+C(C(NC(c1ccc(CNC(=O)C(CC(=O)O*)*)[nH]1)=O)C(C)C)(N(C)C(C(=O)N)CCCNC(=N)N)=O
+C(C(NC(c1ccc(CNC(=O)C(CC(=O)O*)*)[nH]1)=O)C(C)C)(N(C)C(C(=O)N)CCCNC(=N)N)=O
+C(C(NC(c1ccc(CNC(=O)C(CC(=O)O*)*)[nH]1)=O)C(C)C)(N(C)C(C(=O)N)CCCNC(=N)N)=O

@@ -1,0 +1,1 @@
+C(C(NC(C(NC(=O)C(NC(=O)CNC(=O)C(NC(=O)*)CCCNC(=N)N)CC(=O)O*)c1c2c([nH]c1)cccc2)=O)C(=O)N1C(C(NC(C(C)C)C(=O)N)=O)CCC1)c1c2c(cccc2)[nH]c1

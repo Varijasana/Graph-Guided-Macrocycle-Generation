@@ -1,0 +1,8 @@
+*C=C=C*
+*NC(*)C
+*CSC*
+*CCC*
+*CC(*)O
+*CCO*
+*C=C=C*
+*OC(*)CC

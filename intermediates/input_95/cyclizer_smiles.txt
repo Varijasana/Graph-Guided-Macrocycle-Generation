@@ -1,0 +1,1 @@
+C(CC*)c1ccc(C2=NC(=CC(c3ccc(CCC*)[nH]3)=N2)CC)[nH]1

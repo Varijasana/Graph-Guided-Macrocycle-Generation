@@ -1,0 +1,1 @@
+C(CCC(=O)O*)CN=C(N)NC(C1N(*)CC(NC(=O)CC(C(N)=O)N*)C1)=O

@@ -1,0 +1,1 @@
+C(C(NC(C(NC(=O)C(NC(=O)*)c1ccccc1)c1ccccc1)=O)CCCN=C(N)N)(=O)NC(C(N(CCNC(=O)*)CC(=O)N)=O)c1c[nH]c2ccccc12
