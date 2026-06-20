@@ -1,0 +1,12 @@
+*NC(*)C
+*C=C=C*
+*CC(*)C
+*CCC*
+*CCO*
+*NC(*)=C
+*CN(*)C
+*C1CC1*
+*NC(*)O
+*C=C=C*
+*C=C=C*
+*C=C=C*

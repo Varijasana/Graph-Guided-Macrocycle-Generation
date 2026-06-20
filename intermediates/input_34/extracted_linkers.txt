@@ -1,0 +1,15 @@
+*CCC(*)CN
+*CCCC(*)C
+*C#CCC(*)C
+*CN[C@@H]1CN1*
+*CN1CCN(*)C1
+*C=C=CCC*
+*OCCCO*
+*CC1(*)CC1
+*CCC(=O)N*
+*CCCCC(*)=O
+*N[C@@H](C)CO*
+*NC(=O)CS*
+*CCNC(*)=O
+*CC=C=CS*
+*NCCCO*

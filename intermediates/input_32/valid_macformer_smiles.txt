@@ -1,0 +1,6 @@
+C(C(NC(C(NCC(NC(C(NCC(=O)O*)=O)CC(=O)O*)=O)=O)CCCNC(N)=N)=O)C
+C(C(NC(C(NCC(NC(C(NCC(=O)O*)=O)CC(=O)O*)=O)=O)CCCNC(N)=N)=O)C
+C(C(NC(C(NCC(NC(C(NCC(=O)O*)=O)CC(=O)O*)=O)=O)CCCNC(N)=N)=O)C
+C(C(NC(C(NCC(NC(C(NCC(=O)O*)=O)CC(=O)O*)=O)=O)CCCNC(N)=N)=O)C
+C(C(NC(C(NCC(NC(C(NCC(=O)O*)=O)CC(=O)O*)=O)=O)CCCNC(N)=N)=O)C
+C(C(NC(C(NCC(NC(C(NCC(=O)O*)=O)CC(=O)O*)=O)=O)CCCNC(N)=N)=O)C

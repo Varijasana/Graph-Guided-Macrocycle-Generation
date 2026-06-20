@@ -1,0 +1,7 @@
+Cc1noc(C)c1C(=O)Nc1ccc2c(c1)C(=O)N(C(C)CO)CC(C)C(CN(C)C(=O)c1c(C)noc1C)CC#CC2
+Cc1noc(C)c1C(=O)Nc1ccc2c(c1)C(=O)N(C(C)CO)CC(C)C(CN(C)C(=O)c1c(C)noc1C)CC=C=C=C=C2
+Cc1noc(C)c1C(=O)Nc1ccc2c(c1)C(=O)N(C(C)CO)CC(C)C(CN(C)C(=O)c1c(C)noc1C)CCCC2
+Cc1noc(C)c1C(=O)Nc1ccc2c(c1)C(=O)N(C(C)CO)CC(C)C(CN(C)C(=O)c1c(C)noc1C)CCCC=C2
+Cc1noc(C)c1C(=O)Nc1ccc2c(c1)C(=O)N(C(C)CO)CC(C)C(CN(C)C(=O)c1c(C)noc1C)CSCC2
+Cc1noc(C)c1C(=O)Nc1ccc2c(c1)C(=O)N(C(C)CO)CC(C)C(CN(C)C(=O)c1c(C)noc1C)CSCCC2
+Cc1noc(C)c1C(=O)Nc1ccc2c(c1)C(=O)N(C(C)CO)CC(C)C(CN(C)C(=O)c1c(C)noc1C)SC=CC2

@@ -1,0 +1,12 @@
+*CC#CC*
+*CCCOC*
+*C=CC*
+*CC[C@@H](C)C*
+*C[C@@H]1NN1*
+*CC(*)CC
+*OC(*)CCO
+*C=C=CCN*
+*COC(=O)C*
+*N=C(*)NN
+*NC(*)N
+*OC(*)CCO

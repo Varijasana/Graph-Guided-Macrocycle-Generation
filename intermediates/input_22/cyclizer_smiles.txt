@@ -1,0 +1,1 @@
+C(C(C(O)*)OC)C(-c1c(O)cc(NC(=O)c2ccc(CN3c4c(cccc4)CC3)cc2)c(C=C(C)CC(OC)C(O)*)c1O)C

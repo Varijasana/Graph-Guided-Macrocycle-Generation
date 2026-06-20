@@ -1,0 +1,1 @@
+C(C=CC1C(*)O1)=C(c1c(Cl)c(O)cc(O)c1C(=O)*)

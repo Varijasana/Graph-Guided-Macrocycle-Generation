@@ -1,0 +1,6 @@
+C(C(NC(=O)*)C(=O)c1nc(CC(=O)NC(C(C)C)C(=O)N(C)C(CCCNC(=N)N)*)cs1)C(=O)O
+C(C(NC(=O)*)C(=O)c1nc(CC(=O)NC(C(C)C)C(=O)N(C)C(CCCNC(=N)N)*)cs1)C(=O)O
+C(C(NC(=O)*)C(=O)c1nc(CC(=O)NC(C(C)C)C(=O)N(C)C(CCCNC(=N)N)*)cs1)C(=O)O
+C(C(NC(=O)*)C(=O)c1nc(CC(=O)NC(C(C)C)C(=O)N(C)C(CCCNC(=N)N)*)cs1)C(=O)O
+C(C(NC(=O)*)C(=O)c1nc(CC(=O)NC(C(C)C)C(=O)N(C)C(CCCNC(=N)N)*)cs1)C(=O)O
+C(C(NC(=O)*)C(=O)c1nc(CC(=O)NC(C(C)C)C(=O)N(C)C(CCCNC(=N)N)*)cs1)C(=O)O

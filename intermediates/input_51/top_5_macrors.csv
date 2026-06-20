@@ -1,0 +1,2 @@
+SMILES,MW,LogP,HBD,HBA,PSA,RotatableBonds,SA,Permeability,hERG_Risk,CYP_Inhibition,Metabolic_Stability,PAINS_Alert,lipinski_violations,QED,Druglikeness_Score,Linkers
+C(=O)CC(NC(=O)CC(NC(=O)C(Cc1ccccc1)N(C)C(=O)CCCCN=C(N)NC(=O)NC)C(=O)O)C(=O)O,591.6220000000004,-1.411999999999992,7,8,249.68999999999997,17,,Low,Low,Low,Moderate,No,2,0.04821086158617073,75,

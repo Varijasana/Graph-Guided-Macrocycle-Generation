@@ -1,0 +1,11 @@
+*CC(*)C
+*C1CC1*
+*C1CC1*
+*CC(*)CC
+*C1CC1*
+*C1CC1*
+*C[C@@H]1NN1*
+*COC*
+*C1CC1*
+*CC(*)C
+*C1CC1*

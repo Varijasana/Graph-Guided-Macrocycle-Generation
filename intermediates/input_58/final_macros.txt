@@ -1,0 +1,8 @@
+COC1CCc2c(O)cc(NC(=O)Oc3ccc(OC(C)=O)cc3)c(O)c2C=C(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)C(C)NC(OC(N)=O)C(C)=CC(C)C1O
+COC1CCc2c(O)cc(NC(=O)Oc3ccc(OC(C)=O)cc3)c(O)c2C=C(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)C(O)CC(OC(N)=O)C(C)=CC(C)C1O
+COC1CCc2c(O)cc(NC(=O)Oc3ccc(OC(C)=O)cc3)c(O)c2C=C(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)CC=CC(OC(N)=O)C(C)=CC(C)C1O
+COC1CCc2c(O)cc(NC(=O)Oc3ccc(OC(C)=O)cc3)c(O)c2C=C(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)CCCC(OC(N)=O)C(C)=CC(C)C1O
+COC1CCc2c(O)cc(NC(=O)Oc3ccc(OC(C)=O)cc3)c(O)c2C=C(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)CNCCC(OC(N)=O)C(C)=CC(C)C1O
+COC1CCc2c(O)cc(NC(=O)Oc3ccc(OC(C)=O)cc3)c(O)c2C=C(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)CSCC(OC(N)=O)C(C)=CC(C)C1O
+COC1CCc2c(O)cc(NC(=O)Oc3ccc(OC(C)=O)cc3)c(O)c2C=C(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)OCCC(OC(N)=O)C(C)=CC(C)C1O
+COC1CCc2c(O)cc(NC(=O)Oc3ccc(OC(C)=O)cc3)c(O)c2C=C(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)SCCC(OC(N)=O)C(C)=CC(C)C1O

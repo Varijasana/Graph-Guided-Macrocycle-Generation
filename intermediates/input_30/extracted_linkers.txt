@@ -1,0 +1,8 @@
+*CC*
+*C1OC1*
+*CC(*)C(=O)O
+*NC(*)OC
+*C[C@@H](O)C(*)O
+*OC(*)O
+*CC(*)Cl
+*CSC*

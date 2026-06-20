@@ -1,0 +1,6 @@
+C(CC*)c1cc(C2=NC(=C3cccc(CCC*)c3)C(OC)=C2)ccc1
+C(CC*)c1cc(C2=NC(=C3cccc(CCC*)c3)C(OC)=C2)ccc1
+C(CC*)c1cc(C2=NC(=C3cccc(CCC*)c3)C(OC)=C2)ccc1
+C(CC*)c1cc(C2=NC(=C3cccc(CCC*)c3)C(OC)=C2)ccc1
+C(CC*)c1cc(C2=NC(=C3cccc(CCC*)c3)C(OC)=C2)ccc1
+C(CC*)c1cc(C2=NC(=C3cccc(CCC*)c3)C(OC)=C2)ccc1

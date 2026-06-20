@@ -1,0 +1,16 @@
+*C=CN*
+*NC(*)=N
+*NCN*
+*CN(*)C
+*CCO*
+*CCN*
+*CN(*)C
+*CNC*
+*CCC*
+*CCO*
+*NC(*)C
+*CCN*
+*C1CC1*
+*CNN*
+*CCN*
+*CN(*)C
